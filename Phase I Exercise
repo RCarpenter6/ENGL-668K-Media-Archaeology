@@ -25,105 +25,208 @@ Make some additional notes below about each machine as you go: What’s the most
 
 ==================================================================================================================
 KAYPRO 4
-
-•	What year was it made? 
-  1984
-•	What operating system does it run? 
-  CP/M 2.2 (Control Program for Microcomputers) 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-  $1,800 then would cost about $4,122.24 now. I was able to find a couple Kaypro 4s for sale on ebay and other sites (varagesale.com) but the Kaypro 2
-  had many more postings, especially on ebay. 
+•	What year was it made?
+ 1984
+•	What operating system does it run?
+ CP/M 2.2 (Control Program for Microcomputers)
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+ $1,800 then would cost about $4,122.24 now. I was able to find a couple Kaypro 4s for sale on ebay and other sites (varagesale.com) but the Kaypro 2
+ had many more postings, especially on ebay.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
-  ***************************
+The Kaypro 4 offered competitive pricing, a larger screen, portability, and an increased capacity for saving, storing, and running programs and work with the introduction of the dual drive (a change from the Kaypro II). 
+Its competitive pricing and large ‘bundled’ software packages made the Kaypro a popular choice for small businesses and home offices since it was relatively easy to learn to use. Part of its decline in popularity occurred because
+it relied on running the CP/M OS and therefore its incompatibility with IBM software although Kaypro did introduce computers that were IBM MS-DOS compatible later. 
 Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, experimenting with some commands based on the keyboard template. (You don’t need to save your document.)
-  The most notable difference is working form the command line to open programs as opposed to a desktop screen. Also, the positioning of the arrow
-  keys in a linear as opposed to a compass form was a different design that forced me to acually think about the buttons I was pushing. I also like 
-  that the model is technically portable, although I can't imagine hefting it around on the bus and to class everyday so I wonder what/who its mobility
-  was for. Many of the command prompts, or I guess keyboard shorcuts, do not work on my computer now. While the presence of a mouse makes naviagation easier
-  I think it would still be useful to have universal keyboard prompts for things like spelling. Although, part of the reason that doesn't exist is probably because
-  users work across so many programs and platforms that a universal prompt might be difficult to manufactor. 
+The most notable difference is working from the command line to open programs as opposed to a desktop screen. Also, the positioning of the arrow
+ keys in a linear as opposed to a compass form was a different design that forced me to actually think about the buttons I was pushing. I also like
+that the model is technically portable, although I can't imagine hefting it around on the bus or to class everyday so I wonder what/who its mobility
+ was for. Many of the command prompts, or I guess keyboard shortcuts, are different from my own keyboard. While the presence of a mouse or trackpad for modern computers makes navigation easier. 
+ The Kaypro 4 also has the ability to copy information between two floppy discs. While my desktop does not have that kind of dual capability for CD discs (I would have to insert one, copy the folders and then insert the other)
+ I can insert two USB drives and get the same effect. For many of the computers we explored, in fact, while trying to think of something I could not do on my personal CP or laptop I just came up with systems that allowed me to do the same 
+ kind of thing, but using different means. That being said, many of the keyboard shortcuts on the Kaypro 4 are different depending on what program I am writing in (Word, clipboard, google drive) and some of the shortcuts available on the Kaypro 
+ are not available in those programs (such as creating tables). 
+
+http://www.atarimagazines.com/creative/v11n7/25_Kaypro_286i_the_first_PC.php
+
+http://www.old-computers.com/museum/computer.asp?st=1&c=548
+
+http://www.historyofpersonalcomputing.com/kaypro/#more-28
+
+http://tcf.pages.tcnj.edu/files/2013/12/PAPERREFTABLEPIC3.pdf
 ===================================================================================================================
 APPLE IIe
-
-•	What year was it made? 
-  1983
-•	What operating system does it run? 
-  DOS 3.3 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-  $1,295 then would cost $3,091.37 today. There are 91 listings on ebay for Apple iie computers many of which are for the modem and disk drives. The prices
-  are pretty eratic but range around 199-299 for the modem, disk drives, and a couple of disks. Listings with a monitor tend ot be a lot more expensive and any
-  listing with included disks is more expensive than those without. 
+•	What year was it made?
+ 1983
+•	What operating system does it run?
+ DOS 3.3
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+ $1,295 then would cost $3,091.37 today. There are 91 listings on ebay for Apple iie computers many of which are for the modem and disk drives. The prices
+ are pretty erratic but range around 199-299 for the modem, disk drives, and a couple of disks. Listings with a monitor tend to be a lot more expensive and any
+ listing with included disks is more expensive than those without.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
-  According to Wikipedia and users on oldcomputers.com the Apple iie was considered the workhorse of the apple computers released around that time. 
-  **************
+ According to Wikipedia and users on oldcomputers.com the Apple iie was considered the workhorse of the apple computers released
+ around that time withits ‘built in’ extras. It was cheaper (production wise) than previous Apple computers thanks to a reduced chip 
+ count on the motherboard. The Apple iie also used ‘auxiliary’ memory which allowed the Apple iie to remain compatible with other Apple computers
+ even though it ran different hardware, notably the ability to produce upper and lower case letters and an 80 column display. It was a popular choice for
+ classrooms and home computers because of its reliability, but also because of the amount of pre-existing software from the Apple II it could support. Looking through
+ some forums a consensus arises that while the Apple iie was, in fact, a powerhouse when it came to expandability and durability it lacked the graphics and sound of other
+ systems (i.e. the Commodore). Also, the price of the Apple iie was pretty exorbitant considering that cost production was significantly decreased. 
 Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. (If you can beat one of my high scores on Sea Dragon you’ll get a prize. Really!)
-  Besides the bulkiness of the monitor, disk drives, and modem, lack of a mouse, and the green text on a black screen which were also features of the Kaypro 4 another 
-  difference I noted, which was also present in the Kaypro 4, was the reliance on keyboard shortcuts and prompts in lieu of a mouse to select menu options 
-  and interact with the text. Also, a huge difference in operation was having to load discs everytime I wanted to change programs(as opposed to just opening a program from an app or clicking on an icon to access 
-  a downloaded program stored on the computer's memory). One feature not included with my present laptop was the command to make a 'bing' noise when I push cntrl g which I feel 
-  would be an excellent addition to my daily computer use. *******
+Besides the bulkiness of the monitor, disk drives, and modem, lack of a mouse, and the green text on a black screen which were also features of the Kaypro 4 another
+difference I noted, which was also present in the Kaypro 4, was the reliance on keyboard shortcuts and prompts in lieu of a mouse to select menu options
+and interact with the text. Also, a huge difference in operation was having to load discs every time I wanted to change programs(as opposed to just opening a program from an app 
+or clicking on an icon to access a program). One feature not included with my present laptop was the command to make a 'bing' noise when I push cntrl g which I feel
+would be an excellent addition to my daily computer use. 
+
+ http://www.macworld.com/article/2025408/30-years-of-the-apple-lisa-and-the-apple-iie.html
+
+http://apple2history.org/history/ah07/
+
+http://www.atarimagazines.com/creative/v9n3/116_The_Apple_IIe_personal_co.php
+
+http://atariage.com/forums/topic/206221-commodore-64-vs-apple-ii/
 ====================================================================================================================
 MACINTOSH SE
-
-•	What year was it made? 
-  1987
-•	What operating system does it run? 
-  Classic MAC OS 3.3 and later versions
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-  ******* There are 61 listings on ebay all of them mostly under $100. The main difference between cheaper offers and more expensive ones is the inclusion
-  of accesories such as keyboards, mice, ethernet cords, and extra discs. 
+•	What year was it made?
+ 1987
+•	What operating system does it run?
+ Classic MAC OS 3.3 and later versions up to 7.5.5 
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+The dual floppy was about $3900 which adjusted for inflation would be $8,168.89  There are 61 listings on ebay all of them mostly under $100. The main difference between cheaper offers and more expensive ones is the inclusion
+ of accessories such as keyboards, mice, ethernet cords, and extra discs.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
-  *************************
+One significant feature of the Macintosh SE was the capability to expand its memory with the addition of an internal hard drive, or an additional floppy drive.
+Also, with the addition of an FDHD drive it could handle high density floppy discs and had an additional fan (which improved life expectancy of the machine). 
+Really, it seems like the best thing about the computer was the ability to expand with multiple ports (especially within the Apple Desktop Bus) 
+or upgrade it to future systems i.e. the SE/30. However, this was for future packs, expanding from older computers to the SE was impossible. 
+It also did not have the ability to display color. The SE was also a much faster machine than its predecessors and was pretty compatible with existing software.
 Turn it on (you must figure out how). Read some of Deena Larsen’s Marble Springs. Quit Marble Springs. What else is on this Mac?
-  There are some other hypertexts saved on the computer in storyspace. There are also other accesories included, calculator, calender, ect..., that a user might 
-  expect to find when looking in the 'systems' folder on a more modern computer. Since it is a Mac it already runs pretty differently from my Windows laptop including 
-  the mouse without a right click option. It also, unlike my computer, has the ability to run storyspace and access hypertext files made in that program. The biggest difference 
-  I noticed was the black and white screen as well as the way images and screens were loaded within the hypertext(from the top down). 
+There are some other hypertexts saved on the computer in storyspace. There are also other accessories included, calculator, calendar, ect..., that a user might
+expect to find when looking in the 'systems' folder on a more modern computer. Since it is a Mac it already runs pretty differently from my Windows laptop including
+the mouse without a right click option. It also, unlike my computer, has the ability to run storyspace and access hypertext files made in that program. The biggest difference
+I noticed was the black and white screen as well as the way images and screens were loaded within the hypertext(from the top down).
+
+https://books.google.com/books?id=HDwEAAAAMBAJ&pg=PA59&dq=Mac+SE&hl=en&sa=X&ved=0CDcQ6AEwAWoVChMIh-X32cfgyAIVyxgeCh16RgfH#v=onepage&q=Mac%20SE&f=false
+
+http://www.hardwaresecrets.com/inside-the-macintosh-se/
+
+http://lowendmac.com/1987/mac-se/
+
+http://www.smashinglists.com/15-unforgettable-mac-computers-old-is-gold/
+
+http://www.computinghistory.org.uk/det/2052/apple-macintosh-se-30/
 ===================================================================================================================
 VECTREX
-
-•	What year was it made? 
-  1982
-•	What operating system does it run? 
-  ****
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-  When it first was put on market it was listed as $199 which would be $490.68 today. While there are 250 listings under "Vectrex" on ebay most of the listings are for games with a few 
-  machines. The machines range from about $100-500 usually (games, controllers, original packaging being the major factors for more expensive listings). The games
-  when listed separately range from around $20-$300 usually depending on the rarity, although, there was a listing for Mr. Boston's Clean Sweep starting at 4,999.99.  
+•	What year was it made?
+ 1982
+•	What operating system does it run?
+Vectrex OS? 
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+ When it first was put on market it was listed as $199 which would be $490.68 today. While there are 250 listings under "Vectrex" on ebay most of the listings are for games with a few 
+machines. The machines range from about $100-500 usually (games, controllers, original packaging being the major factors for more expensive listings). The games
+when listed separately range from around $20-$300 usually depending on the rarity, although, there was a listing for Mr. Boston's Clean Sweep starting at 4,999.99. 
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
-  ********************
+The Vectrex was promoted as the best arcade duplication system on the market. Its graphics and sound were highly competitive and even though the screen was black and white,
+the overlays gave the graphics depth and color. The availability of numerous game cartridges added to the excitement. Especially since many of the games incorporated effects
+like rotation and zoom. Also, since it had it’s own screen kids could play without tying up the TV (something I’m sure my parents would have liked). There were some bugs in the Minestorm 
+game that came pre installed that caused it to stop running at level 13, but a replacement cartridge was available. Also, the black and white screen, despite being modified with plastic overlays, 
+was seen as a potential downside to the system. 
 Turn it on (you must figure out how). Play MineStorm. Try another cartridge. Why do you think the designer’s would have opted for the “vector” graphics?
+The biggest difference when playing on the Vectrex, besides the four button control and super tiny joystick is the need (or option I guess) to change the 
+background by physically switching out the plastic sheet that sits in front of the screen. What is available on each screen are the controls for the game which
+is pretty handy in lieu of tutorials. I also liked the ability to adjust the volume on the vectrex, which was not an option for other machines (but how tricky is
+it that the volume and power button are the same thing? I had to look at the manual to figure it out). I played Minestorm, Solar Quest, and Star Trek. Out of the three 
+I think Solar Quest was my favorite. The ‘vector’ graphics within the games are clear and bright lines that don’t display a lot of pixels. They also emulate arcade games
+more, which was the aim of the system. Also, the geometric shapes created in vector graphics remain relatively steady and smooth even when effects like rotation, moving, 
+and zooming are introduced. 
 
+http://www.gamasutra.com/view/feature/131526/a_history_of_gaming_platforms_the_.php?page=6
+
+http://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n93/mode/2up
+
+http://vectrexmuseum.com/vectrexhistory.php
 ===================================================================================================================
 AMIGA
-
-•	What year was it made? 
-  1985
-•	What operating system does it run? 
-  AmigaOS
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-  It would have been $1595 (including monitor price) then which becomes $3,527.16 today with inflation. The most popular listings on ebay are for Amiga motherboards, RAM, and other internal 
-  parts and not the computer itself. However, there are some listings for the Amiga which all seem to be around $200-400. There is also an 
-  autction sight-http://amiga.classic-computer-auctions.com/-specifically for the computers that has listings (although these often double with ebay). 
+•	What year was it made?
+ 1985
+•	What operating system does it run?
+ AmigaOS
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+ It would have been $1595 (including monitor price) then which becomes $3,527.16 today with inflation. The most popular listings on ebay are for Amiga motherboards, RAM, and other internal
+ parts and not the computer itself. However, there are some listings for the Amiga which all seem to be around $200-400. There is also an
+ auction site-http://amiga.classic-computer-auctions.com/-specifically for the computers that has listings (although these often double with ebay).
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
-
+The Amiga was, according to some, ten years ahead of its time with the ability to support graphics, sound, and video and run them smoothly and easily. 
+The Amiga introduced a CPU that would allow users to change screens by pushing their working screen down to the bottom of the screen. This meant, that on top of running animation and illustration programs the Amiga, 
+with its memory and multichip system, was able to multitask programs without crashing or significantly compromising other windows. One setback to the Amiga was a lack of memory protection which could force a reboot for the system losing all 
+the user’s work they might have had up in multiple programs. 
 Turn it on (you must figure out how). Try the demos. What else can it do? (Hint: try the “Amiga Appetizer” disk). Have a look at the Amiga magazines and the book, The Future Was Here.
-  The first thing I noticed about the Amiga was that like the Kaypro 4 and Apple iie it needed to booted from discs and relied on discs in order to run most programs. I'm nto sure 
-  if it was supposed to work that way usually, but it had me load the kickstart disc each time I tried to put another disc in before it would run the new program. I enjoyed messing aroudn in the piant and 
-  music programs. I noticed that the computer kept track of the amount of memory being taken up so the user would know when they would run into trouble multi-tasking, 
-  especailly since the computer allowed you to run programs in back of others and have multiple windows up at once (which the previous computers did not). 
+ The first thing I noticed about the Amiga was that like the Kaypro 4 and Apple iie it needed to booted from discs and relied on discs in order to run most programs. I'm not sure
+ if it was supposed to work that way usually, but it had me load the kickstart disc each time I tried to put another disc in before it would run the new program. I enjoyed messing around in the paint and
+ music programs. I noticed that the computer kept track of the amount of memory being taken up so the user would know when they would run into trouble multi-tasking,
+ especially since the computer allowed you to run programs in back of others and have multiple windows up at once (which the previous computers did not).
+
+http://arstechnica.com/series/history-of-the-amiga/
 
 ===================================================================================================================
 MACINTOSH IIci
-
-•	What year was it made? 
-  1989
-•	What operating system does it run? 
-  ****
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-  Then, it would have cost $6,269 while now, adjusted for inflation it would be $12,029.65. There are only a few listings on ebay for the Macintosh iici, 30 in total, but only 
-  11 are computers and not just parts or other parephenalia. The listings range from around $40-500 although most listings are below $200. 
+•	What year was it made?
+ 1989
+•	What operating system does it run?
+The Macintosh IIci could run any operating system among System 6.0.4-System 7.1.1(Pro),System 7.5-Mac OS 7.6.1
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+ Then, it would have cost $6,269 while now, adjusted for inflation it would be $12,029.65. There are only a few listings on ebay for the Macintosh iici, 30 in total, but only
+11 are computers and not just parts or other paraphernalia. The listings range from around $40-500 although most listings are below $200.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
-
+One feature of the Macintosh iici was the built in video capability that meant users no longer had to buy a separate video card for their machines.
+However, this also meant that video worked on system memory that not only takes up RAM, but makes the video itself run potentially slower and worse than it would from a card.
+Like other Macs, it had expansion slots which made upgrades, such as more RAM, easy to make. It also had a 32 bit system and 32 bit clean ROMs which basically means it could run 32 
+bit software without additions to the machine. 
 Turn it on (you must figure out how). Open WordPerfect. Open MS Word. Try typing a simple document in each. Which do you like better, and why? Open MacPaint. Try drawing something. (You don’t need to save any of your work from these applications.) What else is on this Mac? What can you learn about its past user(s)?
+I prefered using WordPerfect because there was less  ‘bulk’ to the program. It offered all the same kinds of editing and menu options as MS Word (at least the ones I would want to access), 
+but they were all easily collapsible and hidden away so I could concentrate on the screen without an inch of menu items in the way. The previous user of the mac must have 
+worked in the non-print media services of the library. They also have a thing for pizza and ensuring the right proportion of pizza is ordered to satisfy everyone. They might have also been in charge of room assignments for 
+their building? Or maybe the department was in charge of the media in classrooms and that’s why they had a list of classes and their room assignments. I also enjoyed the questions asked on the staff questionnaire sheet saved. 
+Besides the programs listed above, there was a program to make a newspaper/newsletter and a program to make labels for cassettes. Again, it’s hard to say what immediate differences there were that are not just based on the difference 
+between operating a Mac and Windows machine. However, this older Mac relies on navigating and opening programs from the top menu bar and doesn’t have the convenient line up of saved programs at the bottom of the screen. The screen, 
+takes a while to ‘warm up’ and get bright enough to read the print, which is a feature I remember from my childhood PC. 
+
+http://apple-history.com/iici
+
+http://lowendmac.com/1989/mac-iici/
+
+http://www.shobaffum.com/iici/faq.html#top
+
+
+
+all inflation calculations were done here: 
+
+http://www.bls.gov/data/inflation_calculator.htm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
